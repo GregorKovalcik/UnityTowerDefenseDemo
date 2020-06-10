@@ -1,0 +1,29 @@
+OOO     OOOO
+    OOO OO##
+#O OO#O OO##
+OO O##O  OOO
+   O##OO    
+OO       OOO
+{
+    "StartingMoney": 500,
+    "EnemyRewardWalking": 10,
+    "EnemyRewardDriving": 20,
+    "EnemyRewardFlying": 40,
+    "TowerPriceGun": 100,
+    "TowerPriceRocket": 1000,
+    "CoinsWalking": 5,
+    "CoinsDriving": 20,
+    "CoinsFlying": 100,
+    "CoinChanceWalking": 0.1,
+    "CoinChanceDriving": 0.2,
+    "CoinChanceFlying": 0.3,
+    "CoinDecayTime": 30,
+    "SpawnStartWalking": 0,
+    "SpawnStartDriving": 0,
+    "SpawnStartFlying": 0,
+    "SpawnTimeWalking": 5,
+    "SpawnTimeDriving": 30,
+    "SpawnTimeFlying": 60,
+    "SpawnRateEvolutionPerMinute": 1.5,
+    "MovementSpeedEvolutionPerMinute": 1.2
+}
